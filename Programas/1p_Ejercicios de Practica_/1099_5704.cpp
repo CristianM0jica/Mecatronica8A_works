@@ -37,7 +37,7 @@ do
             cout<<"wrong"<<endl;
         }
     }
-} while (a != 0 && b != 0 && c != 0);
+} while (a != 0);
 
 return 0;
 }
